@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Rama master
-=======
 Info ramas mergear.
->>>>>>> Rama_desarrollo
